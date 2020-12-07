@@ -12,7 +12,7 @@
 RootModule = '.\BCPowerTools.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.3.0'
+ModuleVersion = '1.0.3.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -21,13 +21,13 @@ ModuleVersion = '1.0.3.0'
 GUID = '4d841dce-88da-4cc7-8d51-153c600f2ee8'
 
 # Author of this module
-Author = 'spokymattress'
+Author = 'JakobAaen'
 
 # Company or vendor of this module
 CompanyName = 'NORRIQ'
 
 # Copyright statement for this module
-Copyright = '(c) 2019 spookymattress. All rights reserved.'
+Copyright = '(c) 2019 NORRIQ. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = 'Module to support Microsoft Dynamics 365 Busines Central and integration with the Azure DevOps REST API'
@@ -98,10 +98,10 @@ PrivateData = @{
         # Tags = @()
 
         # A URL to the license for this module.
-        LicenseUri = 'https://github.com/spookymattress/BCPowerTools/blob/master/LICENSE'
+        LicenseUri = 'https://github.com/JakobAaen/BCPowerTools/edit/master/LICENSE'
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://github.com/spookymattress/BCPowerTools'
+        ProjectUri = 'https://github.com/JakobAaen/BCPowerTools'
 
         # A URL to an icon representing this module.
         # IconUri = ''
